@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AssignmentProject</string>
+    <string name="error_no_network">Something went wrong, Please try again</string>
+</resources>
